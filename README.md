@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kavishshah6
 - 👀 I’m interested in programmig and data analytics  
-- 🌱 I’m currently learning C,c++,Java
+- 🌱 I’m currently learning C,C++,Java
 - 💞️ I’m looking to collaborate on any programming related projects(Beginner Level)
 - 📫 How to reach me kavishshah61427@gmail.com
 
